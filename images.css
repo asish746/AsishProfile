@@ -1,0 +1,31 @@
+
+body{
+background-color:white;
+margin:0px;
+}
+
+div{
+    border-top:1px solid black;
+    /* margin-left:1%; */
+}
+h1{
+    margin-left:2%;
+    border-bottom:1px solid black;
+    text-align:center;
+    text-transform:capitalize;
+}
+.ig1{
+    
+    width:200px;
+    height:200px;
+    margin-top:1%;
+    margin-left:1.5%;
+
+}
+.ig2{
+    width:180px;
+    height:200px;
+}
+.foot{
+    background-color:gray;
+}
